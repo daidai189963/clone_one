@@ -5,6 +5,8 @@ void main()
 {
   for (int i=0)
    {
-        antwort=i+5;
+        antwort=i+10;
+        i++£»
    }
 }
+
